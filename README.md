@@ -1,4 +1,4 @@
-## Hola, soy Arturo Aguilar,  creador de contenido y programación!
+## Hi! I'm Arturo Aguilar, content creator and programmer!
 
 <img align="right" src="https://github.com/ArturoAguilarAlvarez0/icons/blob/main/icons/pizza.gif" width="100"></img>
 
