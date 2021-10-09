@@ -1,6 +1,6 @@
 ## Hola, soy Arturo Aguilar,  creador de contenido y programación!
 
-<img align="right" src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/pizza.gif" width="100"></img>
+<img align="right" src="https://github.com/ArturoAguilarAlvarez0/icons/blob/main/icons/pizza.gif" width="100"></img>
 
 - 🔭 I’m currently working on ➔ **Web Development |  Blockchain | Artificial Intelligence**
 - 🌱 I’m currently learning ➔ **Blockchain Technologies**
