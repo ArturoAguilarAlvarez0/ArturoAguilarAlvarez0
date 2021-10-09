@@ -26,8 +26,8 @@
 
 
 <p align= "center">
-<img width="48%" src= "https://github-readme-stats.vercel.app/api?username=akhileshthite&theme=radical" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhileshthite&theme=radical" />
+<img width="48%" src= "https://github-readme-stats.vercel.app/api?username=ArturoAguilarAlvarez0&theme=radical" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArturoAguilarAlvarez0&theme=radical" />
 <p/>
 
 
