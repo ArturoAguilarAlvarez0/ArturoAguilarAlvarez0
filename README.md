@@ -9,7 +9,7 @@
 
 
 ### 🛠️ Languages | Frameworks | Tools
-<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/python.png" width="40" height="40"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="40" height="40"></img>
 <img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/c.png" width="40" height="40"></img>
 <img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/html.png" width="40" height="40"></img>
 <img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/css.png" width="40" height="40"></img>
