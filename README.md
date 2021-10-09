@@ -12,20 +12,7 @@
 
 
 
-<img src="https://github.com/ArturoAguilarAlvarez0/icons/blob/main/icons/angularjs.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/c.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/html.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/css.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/js.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/git.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/react.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/flask.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/tf.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/scikit.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/firebase.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/heroku.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/aws.png" width="40" height="40"></img>
-<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/gcp.png" width="40" height="40"></img>
+<img src="https://github.com/ArturoAguilarAlvarez0/icons/blob/main/icons/angular.png" width="40" height="40"></img>
 
 
 <p align= "center">
