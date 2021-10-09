@@ -15,6 +15,7 @@
 <img src="https://github.com/ArturoAguilarAlvarez0/icons/blob/main/icons/angular.png" width="40" height="40"></img>
 <img src="https://github.com/ArturoAguilarAlvarez0/icons/blob/main/icons/cSharp.png" width="40" height="40"></img>
 <img src="https://github.com/ArturoAguilarAlvarez0/icons/blob/main/icons/xamarin.png" width="40" height="40"></img>
+<img src="https://github.com/ArturoAguilarAlvarez0/icons/blob/main/icons/html.png" width="40" height="40"></img>
 
 <p align= "center">
 <img width="48%" src= "https://github-readme-stats.vercel.app/api?username=ArturoAguilarAlvarez0&theme=radical" />
