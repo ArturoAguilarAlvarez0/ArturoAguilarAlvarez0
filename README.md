@@ -20,3 +20,5 @@
 
 
 
+![ArturoAA's GitHub Status](https://github-readme-stats.vercel.app/api?username=ArturoAguilarAlvarez0&count_private=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoAguilarAlvarez0&layout=compact)](https://github.com/jcurbelo)
