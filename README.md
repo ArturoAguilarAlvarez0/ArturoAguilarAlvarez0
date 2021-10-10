@@ -15,8 +15,6 @@
 <img src="https://github.com/ArturoAguilarAlvarez0/icons/blob/main/icons/ccs.png" width="40" height="40"></img>
 
 <p align= "center">
-<img width="48%" src= "https://github-readme-stats.vercel.app/api?username=ArturoAguilarAlvarez0&theme=radical" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArturoAguilarAlvarez0&theme=radical" />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArturoAguilarAlvarez0&theme=highcontrast&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 <p/>
 
