@@ -18,5 +18,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoAguilarAlvarez0&layout=compact)](https://github.com/ArturoAguilarAlvarez0)
 
 <div>
-    ![Snake animation](https://github.com/ArturoAguilarAlvarez0/ArturoAguilarAlvarez0/blob/output/github-contribution-grid-snake.gif)
+    ![Snake animation](https://github.com/ArturoAguilarAlvarez0/ArturoAguilarAlvarez0/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
