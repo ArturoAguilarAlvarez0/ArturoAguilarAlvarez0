@@ -15,8 +15,7 @@
 <img src="https://github.com/ArturoAguilarAlvarez0/icons/blob/main/icons/ccs.png" width="40" height="40"></img>
 
 <p align= "center">
-![ArturoAA's GitHub Status](https://github-readme-stats.vercel.app/api?username=ArturoAguilarAlvarez0&count_private=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoAguilarAlvarez0&layout=compact)](https://github.com/jcurbelo)
+
 <p/>
 
 
