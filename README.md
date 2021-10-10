@@ -19,5 +19,5 @@
   ##
 <a href="https://www.youtube.com/channel/UCLfd5CHapevgctbSMsQin_g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/ArturoAguilarAlvarez0/ArturoAguilarAlvarez0/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ArturoAguilarAlvarez0/ArturoAguilarAlvarez0/blob/output/github-contribution-grid-snake.svg)
 
