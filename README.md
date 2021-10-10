@@ -15,11 +15,9 @@
 <img src="https://github.com/ArturoAguilarAlvarez0/icons/blob/main/icons/ccs.png" width="40" height="40"></img>
 
 <p align= "center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArturoAguilarAlvarez0&theme=highcontrast&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+![ArturoAA's GitHub Status](https://github-readme-stats.vercel.app/api?username=ArturoAguilarAlvarez0&count_private=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoAguilarAlvarez0&layout=compact)](https://github.com/jcurbelo)
 <p/>
 
 
-![ArturoAA's GitHub Status](https://github-readme-stats.vercel.app/api?username=ArturoAguilarAlvarez0&count_private=false)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoAguilarAlvarez0&layout=compact)](https://github.com/jcurbelo)
