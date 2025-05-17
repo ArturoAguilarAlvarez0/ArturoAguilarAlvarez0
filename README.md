@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/ArturoAguilarAlvarez0/icons/blob/main/icons/pizza.gif" width="100"></img>
 
 - 🔭 I’m currently working on ➔ Web Development | Angular | C#
-- 🌱 I’m currently learning ➔ English | Phyton
+- 🌱 I’m currently learning ➔ English 
 
 ### 🛠️ Languages | Frameworks | Tools
 
