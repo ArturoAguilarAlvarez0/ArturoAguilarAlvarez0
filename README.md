@@ -52,17 +52,23 @@ Full-Stack Developer with strong experience in .NET, SQL Server, and Angular, bu
 
 ---
 
-## 🎥 Content Creator
+## 📊 Development Summary
 
-<a href="https://www.youtube.com/channel/UCLfd5CHapevgctbSMsQin_g" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArturoAguilarAlvarez0&theme=tokyonight)
 
 ---
 
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/ArturoAguilarAlvarez0/ArturoAguilarAlvarez0/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎥 Content Creator
+
+<a href="https://www.youtube.com/channel/UCLfd5CHapevgctbSMsQin_g" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
 
 ---
 
