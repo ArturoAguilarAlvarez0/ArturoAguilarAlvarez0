@@ -46,18 +46,9 @@ Full-Stack Developer with strong experience in .NET, SQL Server, and Angular, bu
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ArturoAguilarAlvarez0&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoAguilarAlvarez0&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-</p>
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArturoAguilarAlvarez0&theme=tokyo-night)
 
 ---
 
