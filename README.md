@@ -16,11 +16,12 @@
 </p>
 ## 👨‍💻 About Me
 
+Full-Stack Developer with strong experience in .NET, SQL Server, and Angular, building robust and high-performance applications.
+
 ⚙️ Backend architecture with .NET 7+ & SQL Server  
 🅰️ Angular (Standalone, RxJS, Modern Architecture)  
 🚀 Azure DevOps | Docker  
 
-Full-Stack Developer with strong experience in .NET, SQL Server, and Angular, building robust and high-performance applications.
 ---
 ## 🛠️ Tech Stack
 
