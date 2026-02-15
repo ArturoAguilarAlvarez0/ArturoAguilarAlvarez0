@@ -9,6 +9,11 @@
   <img src="https://img.shields.io/badge/Experience-2019--Present-blue?style=for-the-badge">
 </p>
 
+<p align="center">
+  <a href="https://arturoaguilaralvarez0.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-000000?style=for-the-badge" />
+  </a>
+</p>
 ---
 
 ## 👨‍💻 About Me
@@ -18,14 +23,6 @@
 🚀 Azure DevOps | Docker  
 
 Full-Stack Developer with strong experience in .NET, SQL Server, and Angular, building robust and high-performance applications.
----
-## 🌐 Personal Portfolio
-
-<p align="center">
-  <a href="https://arturoaguilaralvarez0.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-000000?style=for-the-badge" />
-  </a>
-</p>
 ---
 ## 🛠️ Tech Stack
 
