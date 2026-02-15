@@ -1,22 +1,80 @@
-## Hi! I'm Arturo Aguilar, content creator and software engineer!
+<h1 align="center">Hi 👋, I'm Arturo Aguilar</h1>
+<h3 align="center">Senior ERP & Payment Systems Engineer | .NET & Angular Specialist</h3>
 
-<img align="right" src="https://github.com/ArturoAguilarAlvarez0/icons/blob/main/icons/pizza.gif" width="100"></img>
+<p align="center">
+  <a href="mailto:arturo_365ag@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-arturo_365ag@hotmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+  <img src="https://img.shields.io/badge/Location-Mexico-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Experience-2019--Present-blue?style=for-the-badge">
+</p>
 
-- 🔭 I’m currently working on ➔ Web Development | Angular | C#
-- 🌱 I’m currently learning ➔ English 
+---
 
-### 🛠️ Languages | Frameworks | Tools
+## 👨‍💻 About Me
 
-<img src="https://github.com/ArturoAguilarAlvarez0/icons/blob/main/icons/angular.png" width="40" height="40"></img>
-<img src="https://github.com/ArturoAguilarAlvarez0/icons/blob/main/icons/cSharp.png" width="40" height="40"></img>
-<img src="https://github.com/ArturoAguilarAlvarez0/icons/blob/main/icons/xamarin.png" width="40" height="40"></img>
-<img src="https://github.com/ArturoAguilarAlvarez0/icons/blob/main/icons/html.png" width="40" height="40"></img>
-<img src="https://github.com/ArturoAguilarAlvarez0/icons/blob/main/icons/javascript.png" width="40" height="40"></img>
-<img src="https://github.com/ArturoAguilarAlvarez0/icons/blob/main/icons/ccs.png" width="40" height="40"></img>
+💻 ERP Developer specialized in enterprise systems  
+💳 Payment integrations (CardPointe / Fiserv APIs)  
+📦 Inventory & Warehouse Management Logic  
+⚙️ Backend architecture with .NET 7+ & SQL Server  
+🅰️ Angular (Standalone, RxJS, Modern Architecture)  
+🚀 CI/CD | Azure DevOps | Docker  
 
-![ArturoAA's GitHub Status](https://github-readme-stats.vercel.app/api?username=ArturoAguilarAlvarez0&count_private=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoAguilarAlvarez0&layout=compact)](https://github.com/ArturoAguilarAlvarez0)
-  ##
-<a href="https://www.youtube.com/channel/UCLfd5CHapevgctbSMsQin_g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  
+Since 2019, I’ve been building and optimizing enterprise-level ERP systems, payment integrations, and inventory workflows for high-performance environments.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Backend
+- C# (.NET 7+)
+- ASP.NET Core Web API
+- Entity Framework Core
+- SQL Server (T-SQL, Stored Procedures, Triggers)
+- AutoMapper
+- Cron Jobs / Background Services
+
+### 🔹 Frontend
+- Angular 15+ (Standalone Components)
+- TypeScript
+- RxJS
+- HTML5 / CSS3
+- Responsive UI Architecture
+
+### 🔹 DevOps & Tools
+- Git / GitHub
+- Azure DevOps Pipelines
+- Docker
+- Postman
+- Copilot & AI Tools
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArturoAguilarAlvarez0&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoAguilarAlvarez0&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎥 Content Creator
+
+<a href="https://www.youtube.com/channel/UCLfd5CHapevgctbSMsQin_g" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+---
+
+## 🐍 Contribution Snake
+
 ![Snake animation](https://github.com/ArturoAguilarAlvarez0/ArturoAguilarAlvarez0/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📬 Let's Connect
+
+- 📧 arturo_365ag@hotmail.com  
+- 📍 Mexico  
+- 💼 Open to Remote Opportunities
