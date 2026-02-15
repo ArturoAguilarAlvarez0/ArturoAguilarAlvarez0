@@ -13,15 +13,11 @@
 
 ## 👨‍💻 About Me
 
-💻 ERP Developer specialized in enterprise systems  
-💳 Payment integrations (CardPointe / Fiserv APIs)  
-📦 Inventory & Warehouse Management Logic  
 ⚙️ Backend architecture with .NET 7+ & SQL Server  
 🅰️ Angular (Standalone, RxJS, Modern Architecture)  
-🚀 CI/CD | Azure DevOps | Docker  
+🚀 Azure DevOps | Docker  
 
-Since 2019, I’ve been building and optimizing enterprise-level ERP systems, payment integrations, and inventory workflows for high-performance environments.
-
+Full-Stack Developer with strong experience in .NET, SQL Server, and Angular, building robust and high-performance applications.
 ---
 
 ## 🛠️ Tech Stack
@@ -35,7 +31,7 @@ Since 2019, I’ve been building and optimizing enterprise-level ERP systems, pa
 - Cron Jobs / Background Services
 
 ### 🔹 Frontend
-- Angular 15+ (Standalone Components)
+- Angular
 - TypeScript
 - RxJS
 - HTML5 / CSS3
