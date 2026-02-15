@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arturo Aguilar</h1>
-<h3 align="center">Senior ERP & Payment Systems Engineer | .NET & Angular Specialist</h3>
+<h3 align="center">Full Stack Developer | .NET & Angular Specialist</h3>
 
 <p align="center">
   <a href="mailto:arturo_365ag@hotmail.com">
