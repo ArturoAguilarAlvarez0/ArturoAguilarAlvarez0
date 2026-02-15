@@ -51,10 +51,16 @@ Since 2019, I’ve been building and optimizing enterprise-level ERP systems, pa
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArturoAguilarAlvarez0&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoAguilarAlvarez0&layout=compact&theme=tokyonight"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ArturoAguilarAlvarez0&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoAguilarAlvarez0&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
 ---
