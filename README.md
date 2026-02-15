@@ -14,8 +14,6 @@
     <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-000000?style=for-the-badge" />
   </a>
 </p>
----
-
 ## 👨‍💻 About Me
 
 ⚙️ Backend architecture with .NET 7+ & SQL Server  
