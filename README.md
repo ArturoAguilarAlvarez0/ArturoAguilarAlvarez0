@@ -90,7 +90,7 @@ Desarrollador Full-Stack con más de 8 años de experiencia construyendo aplicac
 
 | Empresa | Período | Rol |
 |---------|---------|-----|
-| 🏢 **OageTech21** | 2021 — Presente | Full Stack Developer |
+| 🏢 **OageTech21** | 2022 — Presente | Full Stack Developer |
 | 🏢 **Axzes** | 2019 — 2021 | Full Stack Developer |
 | 🏢 **CompuAndSoft** | 2018 — 2019 | Desarrollador Jr. |
 
