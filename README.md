@@ -1,5 +1,8 @@
-<h1 align="center">¡Hola 👋, soy Arturo Aguilar!</h1>
-<h3 align="center">Full Stack Developer | .NET & Angular 19 Specialist</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Arturo%20Aguilar&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20.NET%20%26%20Angular%2019&descAlign=50&descAlignY=57&animation=fadeIn" width="100%"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;.NET+%26+Angular+19+Specialist;8%2B+a%C3%B1os+de+experiencia;Disponible+para+trabajo+remoto+%F0%9F%9A%80" />
+</p>
 
 <p align="center">
   <a href="mailto:arturo_365ag@hotmail.com">
@@ -35,31 +38,53 @@ Desarrollador Full-Stack con más de 8 años de experiencia construyendo aplicac
 
 ## 🛠️ Stack Tecnológico
 
-### 🔹 Backend
+<details>
+<summary>🔹 Backend</summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" />
+</p>
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET_7+-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+</details>
 
-### 🔹 Frontend
+<details>
+<summary>🔹 Frontend</summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,html,css&theme=dark" />
+</p>
+
 ![Angular](https://img.shields.io/badge/Angular_19-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Angular Material](https://img.shields.io/badge/Angular_Material-757575?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+</details>
 
-### 🔹 DevOps & Herramientas
+<details>
+<summary>🔹 DevOps & IA</summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,azure,git,github,vscode,postman&theme=dark" />
+</p>
+
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-### 🤖 IA & Asistentes
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D4A27F?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+</details>
+
+---
+
+## 🏆 Trofeos GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArturoAguilarAlvarez0&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
@@ -70,29 +95,19 @@ Desarrollador Full-Stack con más de 8 años de experiencia construyendo aplicac
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoAguilarAlvarez0&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ArturoAguilarAlvarez0&theme=tokyonight&locale=es" />
+</p>
+
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArturoAguilarAlvarez0&theme=tokyonight)
 
 ---
 
-## 🚀 Proyectos Destacados
+## 💬 Frase del día
 
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| **Steel ERP** | Sistema ERP para empresa metálica — inventario, ventas y compras | .NET · Angular · SQL Server |
-| **Steel POS** | Punto de venta con control de caja, facturación y reportes | .NET · Angular 19 · Material |
-| **Payment Gateway** | Integración de pasarela de pagos con múltiples proveedores | ASP.NET Core · REST API |
-| **Customer Portal** | Portal de clientes con historial de pedidos y seguimiento | Angular · .NET · Docker |
-| **Time Tracker** | Sistema de registro de horas laborales y reportes gerenciales | Angular 19 · .NET |
-
----
-
-## 💼 Experiencia
-
-| Empresa | Período | Rol |
-|---------|---------|-----|
-| 🏢 **OageTech21** | 2022 — Presente | Full Stack Developer |
-| 🏢 **Axzes** | 2019 — 2021 | Full Stack Developer |
-| 🏢 **CompuAndSoft** | 2018 — 2019 | Desarrollador Jr. |
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
@@ -122,4 +137,10 @@ Desarrollador Full-Stack con más de 8 años de experiencia construyendo aplicac
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArturoAguilarAlvarez0&color=blueviolet&style=for-the-badge&label=Visitas+al+perfil" />
+</p>
+
 <p align="center">📍 México &nbsp;·&nbsp; 💼 Disponible para oportunidades remotas</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
