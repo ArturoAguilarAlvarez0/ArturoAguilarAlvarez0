@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Arturo%20Aguilar&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20.NET%20%26%20Angular%2019&descAlign=50&descAlignY=57&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Arturo%20Aguilar&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArturoAguilarAlvarez0/icons/refs/heads/main/icons/pizza2.jpg" width="130px" style="border-radius:50%"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;.NET+%26+Angular+19+Specialist;8%2B+a%C3%B1os+de+experiencia;Disponible+para+trabajo+remoto+%F0%9F%9A%80" />
@@ -41,9 +45,7 @@ Desarrollador Full-Stack con más de 8 años de experiencia construyendo aplicac
 <details>
 <summary>🔹 Backend</summary>
 <br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" /></p>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET_7+-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -55,9 +57,7 @@ Desarrollador Full-Stack con más de 8 años de experiencia construyendo aplicac
 <details>
 <summary>🔹 Frontend</summary>
 <br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,html,css&theme=dark" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=angular,ts,html,css&theme=dark" /></p>
 
 ![Angular](https://img.shields.io/badge/Angular_19-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Angular Material](https://img.shields.io/badge/Angular_Material-757575?style=flat-square&logo=angular&logoColor=white)
@@ -68,9 +68,7 @@ Desarrollador Full-Stack con más de 8 años de experiencia construyendo aplicac
 <details>
 <summary>🔹 DevOps & IA</summary>
 <br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,azure,git,github,vscode,postman&theme=dark" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=docker,azure,git,github,vscode,postman&theme=dark" /></p>
 
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -80,26 +78,14 @@ Desarrollador Full-Stack con más de 8 años de experiencia construyendo aplicac
 
 ---
 
-## 🏆 Trofeos GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArturoAguilarAlvarez0&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📊 Estadísticas GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ArturoAguilarAlvarez0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=es" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoAguilarAlvarez0&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ArturoAguilarAlvarez0&theme=tokyonight&locale=es" />
-</p>
+## 📊 Resumen de Actividad
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArturoAguilarAlvarez0&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArturoAguilarAlvarez0&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArturoAguilarAlvarez0&theme=tokyonight" />
+</p>
 
 ---
 
